@@ -1,3 +1,3 @@
 # ProjetosGit
-projeto realizado utilizando JavaScript
+projeto realizado utilizando Javascript
 
